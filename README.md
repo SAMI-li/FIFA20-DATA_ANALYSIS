@@ -1,3 +1,3 @@
 # FIFA20-DATA_ANALYSIS-SIMPLE-LINEAR-REGRESSION
 
-<p><img align="right" src="https://github.com/SAMI-li/SAMI-li/blob/main/animation_500_kxa883sd.gif" alt="SAMI-li" /></p>
+<p><img align="right" src="https://www.instant-gaming.com/en/4965-buy-fifa-20-xbox-one-xbox-series-x-s-xbox-one-xbox-series-x-s-game-microsoft-store-europe/" alt="SAMI-li" /></p>
