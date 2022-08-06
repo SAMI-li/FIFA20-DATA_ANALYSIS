@@ -12,6 +12,7 @@
 	* Visualization
 	
 2. **Regression**
-	* Simple Linear Regression
+	* Simple Linear Regression 
+<br>
 The two variables are : penalties accuracy and free-kicks accuracy of a specific player.
-  * Prediction
+        * Prediction
